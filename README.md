@@ -6,4 +6,4 @@
 
 이 프로그램 제작에 사용된 언어는 코틀린이고, 툴은 안드로이드 스튜디오를 활용하였습니다. <br>
               <img src="https://img.shields.io/badge/kotlin-b9d8e7?style=flat&logo=kotlin&logoColor=0099a4"/>
-   <img src="https://img.shields.io/badge/Android Studio-6cdcb3?style=flat&logo=Android Studio&logoColor=c4d88e"/>
+   <img src="https://img.shields.io/badge/Android Studio-6cdcb3?style=flat&logo=Android Studio&logoColor=008080"/>
