@@ -5,5 +5,5 @@
 # Use language
 
 사용된 언어는 코틀린이고, 툴은 안드로이드 스튜디오를 활용하였습니다. <br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/badge/kotlin-fcf87f?style=flat&logo=kotlin&logoColor=d5d5d5"/>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Android Studio-fcf87f?style=flat&logo=Android Studio&logoColor=d5d5d5"/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/badge/kotlin-fcf87f?style=flat&logo=kotlin&logoColor=b9d8e7"/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Android Studio-fcf87f?style=flat&logo=Android Studio&logoColor=6cdcb3"/>
