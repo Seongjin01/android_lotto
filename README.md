@@ -38,6 +38,16 @@
    리스트 화면
    
    <img width="354" alt="image" src="https://user-images.githubusercontent.com/102296551/170392485-586975b8-4a2c-42d3-bcd2-7700235eeb4f.png">
+   
+   # Pros, Cons, Need to improvement
+   
+   > 잘한점
+
+   for문을 활용해 로또번호를 생성하고 if문을 이용하여 숫자마다 공 색깔을 다르게 만든점, 함수 loadpref를 사용해 앱을 삭제하기 전까진 리스트를 유지할 수 있도록 한점이 있다.
+   
+   >아쉬운점
+
+   
 
 
    
