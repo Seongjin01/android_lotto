@@ -27,7 +27,7 @@
     
    메인화면 
     
-    <img width="349" alt="image" src="https://user-images.githubusercontent.com/102296551/170392349-da6481be-61b8-4e41-afbd-d6023636a58f.png">
+   <img width="349" alt="image" src="https://user-images.githubusercontent.com/102296551/170392349-da6481be-61b8-4e41-afbd-d6023636a58f.png">
 
 
    로또번호 생성 후 화면
