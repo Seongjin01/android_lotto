@@ -8,6 +8,7 @@
               <img src="https://img.shields.io/badge/kotlin-b9d8e7?style=flat&logo=kotlin&logoColor=0099a4"/>
    <img src="https://img.shields.io/badge/Android Studio-6cdcb3?style=flat&logo=Android Studio&logoColor=008080"/>
    
-   # Use mathod
+   # Used method
    
-   
+   |이름|기능|
+   |:---:|:---:|
