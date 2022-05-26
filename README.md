@@ -12,6 +12,32 @@
    
    |이름|기능|
    |:---:|:---:|
-   |text view|화면에서 text를 표시할때 사용하는 뷰 위젯입니다.|
+   |textview|화면에서 text를 표시할때 사용하는 뷰 위젯입니다.|
    |LinearLayout|세로 또는 가로의 단일 방향으로 모든 하위 요소를 정렬하는 뷰 그룹입니다.|
+   |CheckBox|박스를 클릭하면 체크가 띄워지며 이벤트를 수신합니다.|
+   |scrollview|화면이 넘칠때 수직(위아래)으로 스크롤할 수 있게 하는 기능입니다.|
+   
+   # Drawble
+   
+    res(리소스) -> drawble요소를 이용하여 실제 공을 뽑는 로또처럼 공을 그려 화면에 표시해주었습니다.
+    
+    
+   # 구현 화면
+    
+    
+   메인화면 
+    
+    <img width="349" alt="image" src="https://user-images.githubusercontent.com/102296551/170392349-da6481be-61b8-4e41-afbd-d6023636a58f.png">
+
+
+   로또번호 생성 후 화면
+   
+   <img width="350" alt="image" src="https://user-images.githubusercontent.com/102296551/170392398-78b4ba71-e526-4faf-b36a-94870de000d1.png">
+   
+   
+   리스트 화면
+   
+   <img width="354" alt="image" src="https://user-images.githubusercontent.com/102296551/170392485-586975b8-4a2c-42d3-bcd2-7700235eeb4f.png">
+
+
    
